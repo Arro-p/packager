@@ -1,8 +1,8 @@
-# TurboWarp Packager
+# Vortix Packager
 
-https://packager.turbowarp.org/
+https://arro-p.github.io/packager/
 
-Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux. 
+Converts Scratch projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux. made for Vortix use
 
 ## Development
 
@@ -103,6 +103,6 @@ npm run build-node-prod
 
 <!-- Make sure to also update COPYRIGHT_NOTICE in src/packager/brand.js -->
 
-Copyright (C) 2021-2024 Thomas Weber
+Copyright (C) 2021-2026 Arro-p
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/.
