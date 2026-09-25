@@ -31,7 +31,7 @@ If this is set to an empty string, the link is removed.
 
 module.exports = {
   APP_NAME: 'Vortix Packager',
-  WEBSITE: 'https://packager.turbowarp.org/',
+  WEBSITE: 'https://github.com/Arro-p/packager',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2026 Arro-p
 
 The Source Code Form of this program is available under the terms of the
@@ -40,13 +40,13 @@ https://www.mozilla.org/en-US/MPL/2.0/.`,
   ACCENT_COLOR: '#ADD8E6',
   SOURCE_CODE: 'https://github.com/TurboWarp/packager',
   FEEDBACK_PRIMARY: {
-    name: 'Scratch',
-    link: 'https://scratch.mit.edu/users/GarboMuffin/#comments'
+    name: 'PRs/MRs',
+    link: 'https://github.com/Arro-p/packager/pulls'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
-    link: 'https://github.com/TurboWarp/packager/issues'
+    link: 'https://github.com/Arro-p/packager/issues'
   },
   DONATE: '',
-  PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
+  PRIVACY_POLICY: '',
 };
